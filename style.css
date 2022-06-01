@@ -1,0 +1,290 @@
+    .design1 {
+        margin-top: 41.4px;
+        display: flex;
+    }
+
+    .heading {
+        font-size: 30px;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: lighter;
+        align-self: flex-end;
+    }
+
+    .content {
+        font-size: 85px;
+        font-weight: lighter;
+        font-family: 'Open Sans', sans-serif;
+
+    }
+
+    .container {
+        max-width: 1200px;
+        /*width: 100%;*/
+        display: flex;
+        margin: 0 auto;
+    }
+
+    .design-text {
+        align-self: flex-end;
+        margin-bottom: 160px;
+    }
+
+    .design2 {
+        display: flex;
+    }
+
+    .desing2 img {
+        width: 675px;
+    }
+
+    .design-text2 {
+        align-self: center;
+    }
+
+    .desing3 {
+        margin-top: 135px;
+        display: flex;
+    }
+
+    .design-text3 {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 50px;
+        font-weight: lighter;
+
+    }
+
+    .design-text-inline {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 30px;
+        font-weight: lighter;
+    }
+
+    .design4 {
+        display: flex;
+    }
+
+    .design-text4 {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 50px;
+        font-weight: lighter;
+        margin-right: 25px;
+    }
+
+    .design-text-inline2 {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 30px;
+        margin-right: 25px;
+        font-weight: lighter;
+    }
+
+    .banner {
+        width: 1934px;
+        margin-top: 90px;
+        max-width: 100%;
+        width: 100%;
+        background-color: rgb(213, 239, 248);
+
+    }
+
+    .header {
+        margin: 14px 0px 0px 23px;
+
+    }
+
+    .banner-text {
+        font-family: 'Open Sans', sans-serif;
+        font-weight: lighter;
+        font-size: 50px;
+        text-align: center;
+        margin-top: 131px;
+    }
+
+
+    .banner {
+        display: flex;
+    }
+
+
+    .logo {
+        list-style-type: none;
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 310px;
+        width: 526px;
+    }
+
+    .second {
+        margin-top: 84px;
+    }
+
+    .employee {
+        display: flex;
+
+    }
+
+    .employee h1 {
+        font-family: 'Open Sans';
+        font-size: 60px;
+        font-weight: lighter;
+        text-align: center;
+
+    }
+
+    .employee h2 {
+        font-family: 'Open Sans';
+        font-size: 30px;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    .employee .astion {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 50px;
+        font-weight: lighter;
+        text-align: left;
+    }
+
+    .employee .answer {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 18px;
+        font-weight: normal;
+        margin-top: 16.5px;
+        text-align: left;
+    }
+
+    .information {
+        width: 434px;
+        margin-left: 43.5px;
+        align-self: center;
+    }
+
+    .profile h1 {
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+
+    .flower {
+        margin-top: 101px;
+        margin-bottom: 23px;
+        display: flex;
+    }
+
+    .flower-text {
+        margin-left: 61px;
+        margin-top: 15px;
+        align-self: center;
+    }
+
+    .flower-text h1 {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 50px;
+        font-weight: lighter;
+    }
+
+    .flower-text h2 {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 30px;
+        font-weight: lighter;
+        width: 350px;
+    }
+
+    footer {
+        background-color: black;
+        color: white;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 16px;
+        font-weight: lighter;
+        text-align: center;
+        padding: 44px 0px 84px 0px;
+    }
+
+    .header {
+        padding: 14px 0px 0px 23px
+    }
+
+    .part1 {
+        width: 50%;
+    }
+
+    .logos {
+        width: 50%;
+    }
+
+
+    .banner .part1 img {
+        width: 100%;
+        max-width: 100%;
+
+    }
+
+    .logo li {
+        width: 50%;
+        margin-bottom: 79px;
+    }
+
+    ul li:nth-child(1) {
+        align-self: center;
+    }
+
+    ul li:nth-child(7) {
+        align-self: center;
+    }
+
+    .design-new {
+        margin-left: 76px;
+    }
+
+    .design-new2 {
+        margin-right: 25px;
+    }
+
+    header a{
+        display: inline-block;
+    }
+
+    .flower-text h2 a{
+
+        color: black;
+        
+    }
+    .onscroll a{
+        font-size: 18px;
+        font-weight: bold;
+        color: #6AD2F5;
+        font-family: FONTSPRING DEMO - Greycliff CF;  
+        text-decoration: none;
+    }
+
+    .container2 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .container2{
+        position: absolute;
+        right: 84.2px;
+        top: 388px;
+        width: 70px;
+    }
+
+    .size-1{
+        font-size: 18px;
+        margin-bottom: 30.4px;
+    }
+    
+    .size-2{
+        font-size: 14px;
+        margin-bottom: 31px;
+     }
+
+
+    .size-3{
+        font-size: 15px;
+        margin-bottom: 29.9px;
+    }
+
+    .size-4{
+        font-size: 14px;
+    }
+
+     
